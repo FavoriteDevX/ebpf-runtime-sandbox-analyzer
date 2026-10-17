@@ -1,0 +1,2 @@
+# This architecture operates entirely on standard library core modules.
+# No external pip vendor matrix dependencies required for runtime execution.
